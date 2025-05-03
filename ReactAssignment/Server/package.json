@@ -11,8 +11,8 @@
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
-    "jsonwebtoken": "^7.0.0",
-    "mongoose": "^4.4.19",
-    "node-movie": "^2.0.0"
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.1",
+    "node-movie": "^3.0.0"
   }
 }
